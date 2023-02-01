@@ -1,6 +1,8 @@
 <p>Oii, meu nome é Larissa Michelazzo Lisboa 👩🏻‍💻 </p>
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas. <br></p>
 
+<img src="./octocat.png" height="400">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-michelazzo/)](https://www.linkedin.com/in/larissa-michelazzo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelazzolarissa272@gmail.com)](mailto:michelazzolarissa272@gmail.com)
 
 Skills
