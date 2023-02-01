@@ -15,5 +15,5 @@
 <div>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lari987&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <br><br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari987&langs_count=6&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari987&langs_count=6&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
