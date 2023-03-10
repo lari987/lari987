@@ -1,5 +1,5 @@
 <div>
-<p>Oii, meu nome é Larissa Michelazzo Lisboa </p>
+<p>Oii, meu nome é Larissa</p>
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas. <br><img style="width: 400px" align="right" src="octocat.png" /></p>
 
 
